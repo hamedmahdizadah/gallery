@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+div.all{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    padding: 20px;
+}
+div.imgone{
+    text-align: center;
+    border: 1px solid #cdbaba;
+    width: 200px;
+    height: auto;
+}
+img:hover{
+    border: 1px solid #777;
+}
+div.tex{
+    text-align: center;
+    padding: 20px;
+    font-size: 18px;
+    font-weight: 500;
+
+
+}
+   div.img2{
+    text-align: center;
+    border: 1px solid #cdbaba;
+    margin: 0 19px;
+    width: 200px;
+    height: auto;
+
+   }
+   div.img3{
+    text-align: center;
+    border: 1px solid #cdbaba;
+    
+    width: 200px;
+    height: auto;
+
+   }
+   div.img4{
+    text-align: center;
+    border: 1px solid #cdbaba;
+    margin: 0 19px;
+    width: 200px;
+    height: auto;
+   }
+img{
+    
+
+    width: 200px;
+    height: 240px;
+} 
